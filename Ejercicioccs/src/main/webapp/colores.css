@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.fondobody{
+	background-color: skyblue;
+	font-size: 20px;		
+}
+.plata{
+	background-color: silver;
+	color: blue;
+}
+.centrar{
+	text-align: center;
+}
+.derecha{
+	text-align: right;
+}
+.rojo{
+	color: red;
+}
+.centrar--plata{
+	background-color: silver;
+	color: blue;
+}
